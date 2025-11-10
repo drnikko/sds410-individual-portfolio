@@ -1,92 +1,35 @@
 Date,Day,Activity,Hours
-2025-01-06,Monday,Feature Development,3.0
-2025-01-07,Tuesday,Class,1.25
-2025-01-08,Wednesday,Homework,2.0
-2025-01-09,Thursday,Class,1.25
-2025-01-10,Friday,Preparing for Discussion,2.5
-2025-01-10,Friday,Reading,1.75
-2025-01-13,Monday,Sprint Planning Meeting,2.0
-2025-01-14,Tuesday,Class,1.25
-2025-01-15,Wednesday,Feature Development,3.0
-2025-01-16,Thursday,Class,1.25
-2025-01-17,Friday,Homework,2.0
-2025-01-17,Friday,Sprint Retrospective,2.5
-2025-01-20,Monday,Preparing for Discussion,2.5
-2025-01-21,Tuesday,Class,1.25
-2025-01-22,Wednesday,Reading,2.0
-2025-01-23,Thursday,Class,1.25
-2025-01-24,Friday,Feature Development,3.0
-2025-01-27,Monday,Homework,2.0
-2025-01-28,Tuesday,Class,1.25
-2025-01-29,Wednesday,Sprint Planning Meeting,2.5
-2025-01-30,Thursday,Class,1.25
-2025-01-31,Friday,Preparing for Discussion,3.0
-2025-02-03,Monday,Feature Development,2.0
-2025-02-04,Tuesday,Class,1.25
-2025-02-05,Wednesday,Homework,2.5
-2025-02-06,Thursday,Class,1.25
-2025-02-07,Friday,Reading,3.0
-2025-02-10,Monday,Sprint Retrospective,3.0
-2025-02-11,Tuesday,Class,1.25
-2025-02-12,Wednesday,Feature Development,3.0
-2025-02-13,Thursday,Class,1.25
-2025-02-14,Friday,Homework,2.0
-2025-02-17,Monday,Preparing for Discussion,2.5
-2025-02-18,Tuesday,Class,1.25
-2025-02-19,Wednesday,Reading,2.0
-2025-02-20,Thursday,Class,1.25
-2025-02-21,Friday,Sprint Planning Meeting,3.0
-2025-02-24,Monday,Feature Development,2.0
-2025-02-25,Tuesday,Class,1.25
-2025-02-26,Wednesday,Homework,2.5
-2025-02-27,Thursday,Class,1.25
-2025-02-28,Friday,Preparing for Discussion,3.0
-2025-03-03,Monday,Reading,3.0
-2025-03-04,Tuesday,Class,1.25
-2025-03-05,Wednesday,Feature Development,3.0
-2025-03-06,Thursday,Class,1.25
-2025-03-07,Friday,Sprint Retrospective,2.5
-2025-03-07,Friday,Homework,2.0
-2025-03-10,Monday,Sprint Planning Meeting,2.0
-2025-03-11,Tuesday,Class,1.25
-2025-03-12,Wednesday,Preparing for Discussion,2.5
-2025-03-13,Thursday,Class,1.25
-2025-03-14,Friday,Reading,3.0
-2025-03-17,Monday,Feature Development,2.0
-2025-03-18,Tuesday,Class,1.25
-2025-03-19,Wednesday,Homework,2.0
-2025-03-20,Thursday,Class,1.25
-2025-03-21,Friday,Preparing for Discussion,3.0
-2025-03-24,Monday,Reading,2.5
-2025-03-25,Tuesday,Class,1.25
-2025-03-26,Wednesday,Sprint Planning Meeting,2.0
-2025-03-27,Thursday,Class,1.25
-2025-03-28,Friday,Feature Development,3.0
-2025-03-31,Monday,Homework,2.0
-2025-04-01,Tuesday,Class,1.25
-2025-04-02,Wednesday,Preparing for Discussion,2.5
-2025-04-03,Thursday,Class,1.25
-2025-04-04,Friday,Reading,3.0
-2025-04-07,Monday,Sprint Retrospective,2.5
-2025-04-08,Tuesday,Class,1.25
-2025-04-09,Wednesday,Feature Development,3.0
-2025-04-10,Thursday,Class,1.25
-2025-04-11,Friday,Homework,2.0
-2025-04-14,Monday,Preparing for Discussion,3.0
-2025-04-15,Tuesday,Class,1.25
-2025-04-16,Wednesday,Reading,2.0
-2025-04-17,Thursday,Class,1.25
-2025-04-18,Friday,Sprint Planning Meeting,2.5
-2025-04-21,Monday,Feature Development,2.0
-2025-04-22,Tuesday,Class,1.25
-2025-04-23,Wednesday,Homework,2.5
-2025-04-24,Thursday,Class,1.25
-2025-04-25,Friday,Preparing for Discussion,3.0
-2025-04-28,Monday,Reading,3.0
-2025-04-29,Tuesday,Class,1.25
-2025-04-30,Wednesday,Feature Development,3.0
-2025-05-01,Thursday,Class,1.25
-2025-05-02,Friday,Sprint Retrospective,2.5
-2025-05-02,Friday,Homework,2.0
-2025-05-05,Monday,Sprint Planning Meeting,2.0
-2025-05-05,Monday,Preparing for Discussion,3.5
+Week 1: 
+2025-09-15; Monday; Reading the first 2 articles and papers that our sponsor required us to do plus doing some extra research( as I am new and unfamilar to the vocabulary around LGBTQ+ apps, etc); 2.47 
+2025-09-17; Wednesday; Setting-up my local R enviroment and familiarizing myself with the survey questions and the responses( we seem to have an overwhelmingly large amt of columns); 1.5 hr
+2025-09-18; Thursday; Reading the Georgraphy of digital sexuality, brainstorming questions and analysis that could be done with the data, and preparing questions and thoguht for our meeting with Jack tommorow; 2 
+
+Week 2: 
+
+2025-09-22; Monday; Reading When Data Justice and Environmental Justice Meet: Formulating a Response to Extractive Logic through Environmental Data Justice and preparing disscussion questions for class on Tuesday, 1.5
+2025--09-24; Wednesday; Writing the disscussion blog post on Enviromental data and Justice; 1
+2025-09-26; Friday; Post meeting with Jack, cleaning the dataset to flash out the location to the USA and figuring out what do we want to focus on; 1.5 (11:30-1:00PM)
+
+Week 3: 
+2025-10-02 Thursday; Doing some explanatory data analysis, going back to the dataset and of survey questions; adding my questions to the questions doc and rolling agenda; 2 hr
+2025-10-03; Friday (after meeting with Jack); Worked on grouping the respondent to age categories and groups, went back to some of the notes and analysis from SDS 192 and SDS 270 to refresh myself; 2.75 (5ish-7 and 9-10)
+
+week 4:
+
+2025-10-09; Thursday; Coding (Made a visualization and percentage category of each group and played around with negative experiences of people across apps; 2.5 
+2025-10-10; Friday; Coding (Created a new dataset with only 3-4 variables of age, Negative experience, and across apps, generated tables); 3hr (running to Git issues; was doing this on the train on my way to Boston)
+Note for me: Need to find a way to handle all the mis-spelling for the app and the write-in responses. My analysis is not fully complete
+
+week 5/6: 
+
+2025-10-20; Monday; Coding(Goign back to the dataset and survey answers tracking all the variety of mis-spelling and a way of summarizing the write-in options for people's negative experiences across apps); 2
+2025-10-22; Wednesday; Prepared for the demo day sldies, visualization for the demo day of what i have been working on; 1.5
+
+
+2025-11-03: Monday; Tying to narrow down my research criteria to what I am interested to explore within LGBTQ+ dating (deciding between political affiliation and income); 1.5 hr
+
+
+
+
+
+
